@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hitshksharma0123
+- 👋 Hi, I’m Hitesh Kumar 
 - 👀 I’m interested in data scientist and data analyst
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently kaggle expert
 - 💞️ I’m looking for data analyst position
 - 📫 contact me hiteshksharma0123@gmail.com
 
