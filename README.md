@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hitesh Kumar 
 - 👀 I’m interested in data scientist and data analyst
 - 🌱 I’m currently kaggle expert
-- 💞️ I’m looking for data analyst position
+- 💞️ I’m looking for data scientist and analyst position
 - 📫 contact me hiteshksharma0123@gmail.com
 
 <!---
